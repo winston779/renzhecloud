@@ -2,6 +2,8 @@
 
 最新地址：[renzhe.cloud](https://renzhe.cloud/auth/register?code=P3Je)
 
+> 打不开请使用代理
+
 ## 简介
 
 RenzheCloud提供了在亚洲和美洲超过100个云节点，并且接近全球主要的城市，以便阁下可以在 RenzheCloud提供的服务下畅享全球的精彩内容。我们采用一系列措施来提高我们服务的可靠性，从 RenzheCloud的用户中心中启动全球加速网络，如此简单，不需要任何额外的设置和特定的服务。
